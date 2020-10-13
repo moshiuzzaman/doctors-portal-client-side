@@ -1,0 +1,8 @@
+.login-div{
+    height: 100vh;
+}
+.login-page {
+    background-image: url('https://i.ibb.co/F5vZ9qV/loginBg.jpg');
+    background-repeat: no-repeat;
+    background-position: right;
+}

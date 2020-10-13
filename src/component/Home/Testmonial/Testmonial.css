@@ -1,0 +1,28 @@
+.singleTestmonial {
+    border: 1px solid gray;
+    padding: 10px;
+}
+.singleTestmonial {
+    border: 1px solid gray;
+    padding: 35px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.singleTestmonial img {
+    width: 65px;
+    margin-right: 25px;
+}
+.testmonial-section h1 {
+    font-size: 40px;
+    font-weight: 700;
+    color: black;
+    line-height: 52px;
+}
+
+.testmonial-section {
+    background-image: url('https://i.ibb.co/Rctw9xT/quotetetion1.png');
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 250px;
+}

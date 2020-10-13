@@ -1,0 +1,28 @@
+.home-Appointment-Container {
+    background: linear-gradient(#02071ab8, #050509d1), url('https://i.ibb.co/pwDWXkK/appointmrnt.jpg');
+    background-repeat: no-repeat;
+    color: white;
+}
+.home-Appointment-Container  h4 {
+    color: white;
+}
+
+.home-Appointment-Container h1 {
+     font-size: 46px;
+    font-weight: 600;
+    color: white;
+}
+
+.home-Appointment-Container img {
+    position: absolute;
+    bottom: -154px;
+}
+.align-items-center.home-Appointment.row {
+    height: 500px;
+    margin-top: 220px;
+}
+.home-Appointment-Container img {
+    position: absolute;
+    bottom: -250px;
+    width: 80%;
+}

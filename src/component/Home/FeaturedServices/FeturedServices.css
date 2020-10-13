@@ -1,0 +1,11 @@
+.feturedService p {
+    font-size: 20px;
+    line-height: 36px;
+    color: #5b5b5b;
+}
+.feturedService h1 {
+    font-size: 43px;
+    font-weight: 600;
+    line-height: 53px;
+    color: #203047;
+}

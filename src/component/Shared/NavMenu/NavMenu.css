@@ -1,0 +1,9 @@
+.navbar a {
+    color: black;
+    padding: 33px 20px;
+    
+    font-weight: 500;
+}
+.navbar a:hover {
+    text-decoration: none;
+}

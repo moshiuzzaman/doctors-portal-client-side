@@ -1,0 +1,54 @@
+.banner.align-items-center.row {
+    height: 600px;
+}
+h1.banner-headding {
+    font-size: 44px;
+    font-weight: bold;
+    color: #203047;
+}
+
+.header-Container:after{
+    content:'';
+    position:absolute;
+    z-index:-1;
+    width:35%;
+    height: 775px;
+    top:0;
+    bottom:0;
+}
+.header-Container:after{right:0;background-color:#3a4256;}
+.navbar .nav-link {
+    color: rgba(0,0,0,.5);
+    padding: 25px !important;
+    font-weight: bold;
+    font-size:13px
+}
+.SingleBusiness {
+    display: flex;
+    color: white;
+    height: 132px;
+    padding: 20px;
+    border-radius: 10px;
+}
+h4.businessinfoHeadding {
+    color: white;
+}
+.bg-cyan {
+    background-color: #1cc7c1;
+    width: 100%;
+}
+.bg-black {
+    background-color: #3a4256;
+    width: 100%;
+}
+.businessinfo-icon {
+    font-size: 57px;
+    width: 72px;
+}
+.header-Container{
+    background-image: url('https://i.ibb.co/gVPqpyQ/header-bg.jpg');
+    height: 775px;
+    background-repeat: no-repeat;
+    border-bottom: 1px solid #c4c4c4;
+    background-size: 65% 100%;
+}

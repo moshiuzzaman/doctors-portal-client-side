@@ -1,0 +1,93 @@
+.appointment h2 , h1 , h3 ,h4{
+    color: #1cc7c1;
+}
+.appointmentList {
+    margin: 19px;
+    padding: 23px 0;
+    border-radius: 10px;
+    box-shadow: 2px 2px 12px #c8c1c1;
+}
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+      "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+      sans-serif;
+  }
+  
+  .popupForm form {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .popupForm h1 {
+    font-weight: 100;
+    color: white;
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgb(79, 98, 148);
+  }
+  
+  .popupForm .form {
+    background: #0e101c;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+
+  
+  .popupForm input {
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    border-radius: 4px;
+    border: 1px solid rgb(163, 159, 159);
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    font-size: 14px;
+  }
+
+  
+  .popupForm 
+  input[type="submit"] {
+    background: repeating-linear-gradient(45deg, #1cc7c1, #4cd5d0 100px);
+    font-weight: 600;
+    color: white;
+    text-transform: uppercase;
+    border: none;
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 16px;
+    letter-spacing: 10px;
+  }
+  
+
+  
+  .popupForm input[type="submit"]:hover {
+    background: #1cc7c1;
+  }
+  
+ 
+  
+  .popupForm input:disabled {
+    opacity: 1;
+    color:#1cc7c1;
+    font-weight: bold
+  }
+  
+  .popupForm input[type="button"]:hover {
+    transition: 0.3s all;
+  }
+  input.popup-form-halfInput-left {
+    width: 48%;
+    display: inline;
+    margin-right: 2%;
+}
+input.popup-form-halfInput-right {
+ width: 48%;
+    display: inline;
+    margin-left: 2%;
+} 
+
+.popupForm {
+    padding: 24px 45px;
+}  
+  

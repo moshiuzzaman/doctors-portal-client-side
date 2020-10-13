@@ -1,0 +1,37 @@
+.dashboard-menu {
+    background-color: rgb(24 155 155 / 76%);
+    min-height: 100vh;
+    padding-left: 20px;
+    padding-top: 28px;
+    height: 100%;
+    }
+
+
+.dashboard-menu button {
+    display: block;
+    background: none;
+    border: 0;
+    padding: 10px;
+    font-size: 13px;
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+}
+.dashboard-menu button:focus {
+        outline: none;
+    }
+
+
+svg.dashboard-menu-icon {
+    font-size: 20px;
+    margin-right: 8px;
+}
+button.logoutBtn {
+    position: absolute;
+    bottom: 20px;
+}
+.recent-appointment {
+    background: #f3f0f0;
+    padding: 25px;
+    border-radius: 10px;
+}
